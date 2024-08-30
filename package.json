@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "npx tsx index.ts"
+  },
+  "dependencies": {
+    "@types/ws": "^8.5.12",
+    "ws": "^8.18.0"
+  }
+}
